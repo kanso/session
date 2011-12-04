@@ -1,6 +1,7 @@
 {
     "name": "session",
     "version": "0.1.0",
+    "url": "https://github.com/kanso/session",
     "categories": ["couchdb"],
     "description": "Utilities for managing the current user's session, including login, logout etc",
     "modules": "session.js",
