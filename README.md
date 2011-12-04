@@ -3,6 +3,10 @@
 This module contains functions related to session management. Logging in, logging
 out and checking the current state of a user's session.
 
+Functions in this module follow the node.js callback style. The first argument is
+an error object (if one occurred), the following arguments are the results fo the
+operation. The callback is always the last argument to a function.
+
 
 ### Events
 
